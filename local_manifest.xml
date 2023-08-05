@@ -11,5 +11,6 @@
 	<project path="vendor/mediatek/opensource" name="vendor_mediatek-opensource_aosp" remote="ayon" revision="thirteen"/>
 	<project path="vendor/mediatek/ims" name="vendor_mediatek_ims_aosp" remote="ayon" revision="thirteen"/>
 	<project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces_aosp" remote="ayon" revision="thirteen"/>
+	<project path="device/xiaomi/begonia" name="device_xiaomi_begonia_aosp" remote="ayon" revision="thirteen"/>
 
 </manifest>
