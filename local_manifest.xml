@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote  name="ayon"
+		fetch="https://github.com/AyOn9914"/>
+ 
+ 	<project path="kernel/xiaomi/begonia" name="kernel_xiaomi_begonia_aosp" remote="ayon" revision="thirteen"/>
+	<project path="device/mediatek/common" name="device_mediatek_common_aosp" remote="ayon" revision="thirteen"/>
+	<project path="vendor/xiaomi/begonia" name="vendor_xiaomi_begonia_aosp" remote="ayon" revision="thirteen"/>
+	<project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr_aosp" remote="ayon" revision="thirteen"/>
+	<project path="vendor/mediatek/opensource" name="vendor_mediatek-opensource_aosp" remote="ayon" revision="thirteen"/>
+	<project path="vendor/mediatek/ims" name="vendor_mediatek_ims_aosp" remote="ayon" revision="thirteen"/>
+	<project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces_aosp" remote="ayon" revision="thirteen"/>
+
+</manifest>
