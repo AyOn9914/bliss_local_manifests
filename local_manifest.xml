@@ -12,5 +12,7 @@
 	<project path="vendor/mediatek/ims" name="vendor_mediatek_ims_aosp" remote="ayon" revision="thirteen"/>
 	<project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces_aosp" remote="ayon" revision="thirteen"/>
 	<project path="device/xiaomi/begonia" name="device_xiaomi_begonia_aosp" remote="ayon" revision="thirteen"/>
+	<remove-project name="android_external_chromium-webview_prebuilt_arm64" />
+	<project path="external/chromium-webview/prebuilt/arm64" name="android_external_chromium-webview_prebuilt_arm64" remote="ayon" revision="backup/main_20230314" />
 
 </manifest>
